@@ -3,6 +3,8 @@ https://www.rust-lang.org/
 
 참고하는 영상 자료: https://www.youtube.com/watch?v=zF34dRivLOw&t=649s&ab_channel=TraversyMedia
 
+이거 진짜 머냐.... 이게 진짜 좋은게 맞나...? 해괴망측하게 생겼다. 
+
 ## Why Rust?
 - performance
   - 빠르고, 메모리 효율적이다. 가비지 콜렉터나 런타임 없이도 성능이 아주 중요한 서비스를 운영할 수 있고, 임베디드 기기 위에서도 동작할 수 있고, 다른 언어랑 쉽게 합쳐진다. 
