@@ -45,3 +45,4 @@ Mac `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 ## Learn rust
 https://www.rust-lang.org/learn
 
+- 읽어보기: https://doc.rust-lang.org/rust-by-example/index.html
